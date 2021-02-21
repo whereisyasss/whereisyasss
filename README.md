@@ -30,7 +30,6 @@ const Slayer = {
     askMeAbout : ["Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science"]
 }
 ```    
-<img src="">
 <br />
 
 ***
