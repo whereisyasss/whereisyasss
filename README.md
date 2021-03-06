@@ -46,11 +46,11 @@ const User = {
 ---
 
 ### **Never stop learning** 🤩
-<img src="https://gifer.com/embed/7S7P" width="600px">
+<img src="https://media.giphy.com/media/26his8ERHOSxKuWw8/giphy.gif" width="600px">
 <br />
 
 ***
 
-_This [README.md](https://github.com/SlayerOnGithub/SlayerOnGithub "Slayer's presentation") can be edited by his author at any moment, the gifs are from gifer._
+_This [README.md](https://github.com/SlayerOnGithub/SlayerOnGithub "Slayer's presentation") can be edited by his author at any moment, the gifs are from giphy._
 
 _Logo Designed with <a href="https://flamingtext.com/" >FlamingText.com</a>_
