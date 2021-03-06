@@ -46,7 +46,7 @@ const User = {
 ---
 
 ### **Never stop learning** 🤩
-<div style="padding-top:75.000%;position:relative;"><img src="https://gifer.com/embed/7S7P" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
+<div style="padding-top:75.000%;position:relative;"><img src="https://gifer.com/embed/7S7P" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen><div />
 <br />
 
 ***
