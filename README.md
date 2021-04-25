@@ -51,6 +51,6 @@ const Me = {
 
 ***
 
-_This [README.md](https://github.com/0x5961737373/SlayerOnGithub "Yasss presentation") can be edited by his author at any moment, the gifs are from giphy._
+_This [README.md](https://github.com/0x5961737373/0x5961737373 "Yasss presentation") can be edited by his author at any moment, the gifs are from giphy._
 
 _Logo Designed with <a href="https://flamingtext.com/" >FlamingText.com</a>_
