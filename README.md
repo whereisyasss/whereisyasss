@@ -1,16 +1,16 @@
-<a target="_top" href="https://flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2021/02/21/flamingtext_com_1613924934_663603091.gif" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<a target="_top" href="https://flamingtext.com/" ><img src="https://de21-engine.flamingtext.com/netfu/tmp28000/coollogo_com-13693190.png" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 <br/>
 
 <br>
 <br />
 
-> # 👋 **Hello World ! It's Slayer here !**
+> # 👋 **Hello World ! It's Yasss here !** (Also known as Slayer)
 
-
+- 🕺   He/Him
 - 😺  A young _beginner_ who wants to learn more and more
 - 🏠  Working from home
-- 🚀  Projects are coming !
-- 📣  You can contact me via [Discord](https://dsc.bio/slayerwashere )
+- 🚀  Working on Discat project !
+- 📣  You can contact me via [Discord](https://dsc.bio/yasss)
 
 <br />
 
@@ -20,14 +20,14 @@
 > ## 🤡 Me in a Nutshell :
 
 ```js
-const User = {
-    username : "Slayer",
+const Me = {
+    usernames = ["Yasss","Slayer"]
     pronouns : "he/him",
     knowledge : {
-        frontend = [ "JavaScript", "HTML", "CSS" ]
+        frontend = [ "JavaScript", "HTML", "CSS" , "Node.js" ]
         backend = ["Python"]
     },
-    askMeAbout : ["Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science"]
+    askMeAbout : ["Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science", "Cats 🐱"]
 }
 ```    
 <br />
