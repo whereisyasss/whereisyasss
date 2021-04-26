@@ -1,4 +1,4 @@
-<a target="_top" href="https://flamingtext.com/" ><img src="https://de21-engine.flamingtext.com/netfu/tmp28000/coollogo_com-13693190.png" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<a target="_top" href="https://flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2021/04/26/flamingtext_com_1619427669_1009711738.png" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 <br/>
 
 <br>
