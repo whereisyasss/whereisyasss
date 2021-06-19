@@ -31,7 +31,7 @@ const Me = {
     askMeAbout : ["Religion", "Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science", "Cats 🐱"]
 }
 ```    
-<img src="https://media.giphy.com/media/MKSMnH8e8S6QlY32e6/giphy.gif" width="400px">
+<img src="https://cdn.dribbble.com/users/1592949/screenshots/3763141/palestine.gif" width="400px">
 <br />
 
 ***
