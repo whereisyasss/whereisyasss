@@ -9,7 +9,7 @@
 - 🕺   He/Him
 - 😺  A young _beginner_ who wants to learn more and more
 - 🏠  Working from home
-- 🚀  Working on Discat project !
+- 🚀  Working on discord bot projects !
 - 📣  You can contact me via [Discord](https://dsc.bio/yasss)
 
 <br />
@@ -24,12 +24,14 @@ const Me = {
     usernames = ["Yasss","Slayer"]
     pronouns : "he/him",
     knowledge : {
-        frontend = [ "JavaScript", "HTML", "CSS" , "Node.js" ]
-        backend = ["Python"]
+        frontend = [ "JavaScript", "HTML", "CSS" , "Node.js" ],
+        backend = ["Python", "C#"],
+        database = ["mongo.db"]
     },
-    askMeAbout : ["Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science", "Cats 🐱"]
+    askMeAbout : ["Religion", "Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science", "Cats 🐱"]
 }
 ```    
+<img src="https://www.gif-maniac.com/gifs/47/46950.gif" width="400px">
 <br />
 
 ***
@@ -39,14 +41,14 @@ const Me = {
 
 <br />
 
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript">  <img src="https://img.shields.io/badge/Python-green?logo=Python">  <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5">  <img src="https://img.shields.io/badge/CSS-blue?logo=CSS3">
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript">  <img src="https://img.shields.io/badge/Python-green?logo=Python">  <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5">  <img src="https://img.shields.io/badge/CSS-blue?logo=CSS3"> <img src="https://img.shields.io/badge/Csharp-red?logo=csharp"> <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"> 
 
 <br />
 
 ---
 
-### **Never stop learning** 🤩
-<img src="https://media.giphy.com/media/26his8ERHOSxKuWw8/giphy.gif" width="600px">
+### I started coding late, but I just have to work more than the others 🤩
+
 <br />
 
 ***
