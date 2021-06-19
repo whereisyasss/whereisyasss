@@ -30,8 +30,12 @@ const Me = {
     },
     askMeAbout : ["Religion", "Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science", "Cats 🐱"]
 }
-```    
-<img src="https://cdn.dribbble.com/users/1592949/screenshots/3763141/palestine.gif" width="400px">
+``` 
+<br />
+
+## Of course Free Palestine 🇵🇸
+<img src="https://cdn.dribbble.com/users/1592949/screenshots/3763141/palestine.gif" width="300px"> 
+
 <br />
 
 ***
