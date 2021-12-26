@@ -9,7 +9,7 @@
 - 🕺   He/Him
 - 😺  A young _beginner_ who wants to learn more and more
 - 🏠  Working from home
-- 🚀  Working on discord bot projects !
+- 🚀  Working on various projects, such as discord bots 
 - 📣  You can contact me via [Discord](https://dsc.bio/yasss)
 
 <br />
@@ -31,12 +31,6 @@ const Me = {
     askMeAbout : ["Religion", "Code learning", "Clean friends", "Foreign languages", "SkateBoard", "Science", "Cats 🐱"]
 }
 ``` 
-<br />
-
-## Of course Free Palestine 🇵🇸
-<img src="https://cdn.dribbble.com/users/1592949/screenshots/3763141/palestine.gif" width="300px"> 
-
-<br />
 
 ***
 > ## 👨🏻‍💻 My Skills :
@@ -45,13 +39,13 @@ const Me = {
 
 <br />
 
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript">  <img src="https://img.shields.io/badge/Python-green?logo=Python">  <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5">  <img src="https://img.shields.io/badge/CSS-blue?logo=CSS3"> <img src="https://img.shields.io/badge/Csharp-red?logo=csharp"> <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript">  <img src="https://img.shields.io/badge/Python-green?logo=Python">  <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5">  <img src="https://img.shields.io/badge/CSS-blue?logo=CSS3"> <img src="https://img.shields.io/badge/Csharp-red?logo=csharp"> 
 
 <br />
 
 ---
 
-### I started coding late, but I just have to work more than the others 🤩
+### I've started coding late, but I just have to work more than the others 🤩
 
 <br />
 
