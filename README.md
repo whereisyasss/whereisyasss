@@ -47,8 +47,13 @@
 
 <br />
 
-  
 
+<div align="center">
+  <a align="center" href="https://discord.com/users/853206915264675851">
+ 
+  <img src="https://lanyard.cnrad.dev/api/853206915264675851?theme=dark">
+  </a>
+</div>
 
 
 ***
